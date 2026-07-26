@@ -1,4 +1,4 @@
-# Project 1 — Number Guessing Game - Hello Tommy
+# Project 1 — Number Guessing Game 
 
 **Level:** Beginner · you can do this one entirely on your own
 **Time:** roughly one focused sitting or two
