@@ -1,4 +1,6 @@
-# Project 1 — Number Guessing Game 
+# Project 1 — Number Guessing Game - Hello
+
+
 
 **Level:** Beginner · you can do this one entirely on your own
 **Time:** roughly one focused sitting or two
